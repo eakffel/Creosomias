@@ -2,8 +2,8 @@ import './App.css';
 import { Navbar, Button, Link, Text } from "@nextui-org/react";
 import { Layout } from "./Layout.js";
 
-
 export default function App() {
+  const 
   return (
     <Layout>
       <Navbar isBordered variant="floating">
